@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-    <h2>Quiz</h2>
+    <h2>Quiz Questions</h2>
 
     <!-- Timer Display -->
     <div id="timer">Time Left: 02:00</div>
